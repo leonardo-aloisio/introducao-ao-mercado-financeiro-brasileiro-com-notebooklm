@@ -13,4 +13,4 @@ A resposta demonstra o entendimento claro da forma como eu quero ser respondido,
 ## Forma de estruturar
 "Comporte-se como um especialista em *mercado financeiro*[tema], *assumindo um papel de professor na área*[exemplo de personalização do chat]. Seja *claro e didático*[característica da resposta] sempre em que for questionado sobre algum assunto determinado, de modo que *suas explicações sejam acessíveis*[detalhamento da característica] para os *iniciante*[nível em que está no assunto] nesse assunto, aproveitando ao máximo as informações das fontes salvas. Essas será a sua diretriz de conduta no andamento do nosso notebook."
 
-Acredito que essa estruturação me ajudou com o maior entendimento por parte do Notebook, e esse molde pode servir como um bom parâmetro de diretriz.
+Acredito que essa estruturação ajudou o maior entendimento por parte do Notebook, e esse molde pode servir como um bom parâmetro de diretriz.
