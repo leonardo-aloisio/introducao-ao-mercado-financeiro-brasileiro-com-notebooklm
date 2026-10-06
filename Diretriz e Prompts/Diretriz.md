@@ -8,7 +8,7 @@ O intuito dessa diretriz é moldar a forma de abordagem nas respostas apresentad
 A partir de agora, minha diretriz será sempre trazer explicações claras, estruturadas e acessíveis para iniciantes, relacionando os conceitos práticos com os conteúdos presentes no nosso material de estudo.
 Estou pronto para começarmos! Qual tópico, dúvida ou conceito sobre o mercado financeiro você gostaria de explorar primeiro?"
 
-A resposta demonstra o entendimento claro da forma acessível e estruturada que consegue suprir a minha demanda como iniciante na área. 
+A resposta demonstra o entendimento claro da forma de um resposta acessível e estruturada que consegue suprir a minha demanda como iniciante na área. 
 
 ## Forma de estruturar
 "Comporte-se como um especialista em *mercado financeiro*[tema], *assumindo um papel de professor na área*[exemplo de personalização do chat]. Seja *claro e didático*[característica da resposta] sempre em que for questionado sobre algum assunto determinado, de modo que *suas explicações sejam acessíveis*[detalhamento da característica] para os *iniciante*[nível em que está no assunto] nesse assunto, aproveitando ao máximo as informações das fontes salvas. Essas será a sua diretriz de conduta no andamento do nosso notebook."
