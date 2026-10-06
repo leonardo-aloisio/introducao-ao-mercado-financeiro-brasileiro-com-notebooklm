@@ -10,7 +10,7 @@ conceitos relacionados.
 Ao final, liste possíveis ambiguidades, conceitos que podem ser confundidos e as fontes usadas para cada seção."
 
 Ao estruturar esse prompt consegui receber uma resposta agregadora, rica em informações e didática, o qual deixou claro como os recursos circulam na economia e como as instituições financeiras organizam, intermedeiam e regulam esse fluxo.
-Além das respostas conseguimos extrair muitas outras funcionalidades para aprimorar o estudo, como um glossário com palavras aprendidas na explicação, mapa mental, slides, resumo em áudio, testes com perguntas e sempre com transparência da fonte, onde mostra exatamente a origem da resposta.
+Além das respostas, conseguimos extrair muitas outras funcionalidades para aprimorar o estudo, como um glossário com palavras aprendidas na explicação, mapa mental, slides, resumo em áudio, testes com perguntas e sempre com transparência da fonte, onde mostra exatamente a origem da resposta.
 São ferramentas que além de dar credibilidade ao notebook, também mostra a adaptabilidade desta inteligência artificial em fornecer a melhor forma de estudo para o indivíduo.
 
 ## Glossário
